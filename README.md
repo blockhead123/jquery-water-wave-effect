@@ -52,7 +52,7 @@ Options
             Description
         </th>
         <th>
-            Example
+            Parameter Values
         </th>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ Options
             color
         </td>
         <td>
-            String
+            Hexadecimal
         </td>
         <td>
             #000
